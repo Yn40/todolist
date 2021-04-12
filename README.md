@@ -1,3 +1,5 @@
+# * 이전에 사용하던 git계정에서 fork로 가져옴
+
 # todolist
 
 ## drag&drop 플러그인
