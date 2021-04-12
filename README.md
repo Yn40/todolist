@@ -1,4 +1,6 @@
-# todolist
+# * 이전에 사용하던 git계정에서 fork로 가져옴
+
+# vue todolist
 
 ## drag&drop 플러그인
 https://github.com/SortableJS/Vue.Draggable
